@@ -9,7 +9,8 @@ confirm("Deseja realmente apagar?");
 
 let nome = prompt("Digite seu nome");
 
-console.log("este é o nome " + nome);
+console.log("este é o nome " + nome); 
+//Executar no navegador, no code runer da erro!
 
 
 //Exercicio da aula 16
@@ -17,3 +18,11 @@ let num1 = parseInt(prompt("digite um number:"));
 let num2 = parseInt(prompt("digite um number:"));
 
 alert(`o resultado é ${num1*num2}`);
+
+
+let nome2 = "Sandrolax";
+
+console.log(nome2.slice(1));
+
+
+
